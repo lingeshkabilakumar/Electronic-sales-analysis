@@ -6,6 +6,12 @@ This project analyzes 20,000+ electronic sales transactions to identify
 business insights and support data-driven decision-making.
 
 ------------------------------------------------------------------------
+## Project Highlights
+- Analyzed 20,000+ sales records  
+- Built interactive Excel dashboard  
+- Generated actionable business insights  
+- Focused on real-world decision-making
+------------------------------------------------------------------------
 
 ##  Objectives
 
@@ -25,15 +31,15 @@ business insights and support data-driven decision-making.
 ##  Key Insights
 
 -   Smartphones generate the highest revenue
--   Sales vary across months indicating seasonal trends
--   Certain payment methods are more preferred by customers
+-   Sales show strong seasonal trends across months
+-   Digital payment methods are more preferred by customers
 -   Customer demographics influence purchasing behavior
 
 ------------------------------------------------------------------------
 
 ##  Business Recommendations
 
--   Focus marketing efforts on top-performing products
+-   Improve product strategy
 -   Run seasonal campaigns during peak sales periods
 -   Improve user experience for popular payment methods
 -   Target specific customer segments for better engagement
