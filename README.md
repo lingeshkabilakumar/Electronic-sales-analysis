@@ -1,13 +1,13 @@
-# 📊 Electronic Sales Performance Analysis
+# Electronic Sales Performance Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes 20,000+ electronic sales transactions to identify
 business insights and support data-driven decision-making.
 
 ------------------------------------------------------------------------
 
-## 🎯 Objectives
+##  Objectives
 
 -   Analyze sales trends\
 -   Identify top-performing products\
@@ -16,13 +16,13 @@ business insights and support data-driven decision-making.
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tools Used
+##  Tools Used
 
 -   Excel (Data Cleaning & Dashboard Creation)
 
 ------------------------------------------------------------------------
 
-## 📊 Key Insights
+##  Key Insights
 
 -   Smartphones generate the highest revenue\
 -   Sales vary across months indicating seasonal trends\
@@ -31,7 +31,7 @@ business insights and support data-driven decision-making.
 
 ------------------------------------------------------------------------
 
-## 💼 Business Recommendations
+##  Business Recommendations
 
 -   Focus marketing efforts on top-performing products\
 -   Run seasonal campaigns during peak sales periods\
@@ -40,19 +40,20 @@ business insights and support data-driven decision-making.
 
 ------------------------------------------------------------------------
 
-## 📷 Dashboard
+##  Dashboard
 
-(Add your dashboard image here)
+<img width="903" height="700" alt="sales ana dash" src="https://github.com/user-attachments/assets/9e60e570-56dc-4761-976f-9bdc935b4339" />
+
 
 ------------------------------------------------------------------------
 
-## 📄 Report
+##  Report
 
 Detailed business report is available in the report folder.
 
 ------------------------------------------------------------------------
 
-## 🚀 Conclusion
+##  Conclusion
 
 This project demonstrates how sales data can be transformed into
 meaningful insights to improve business performance and decision-making.
