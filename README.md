@@ -9,9 +9,9 @@ business insights and support data-driven decision-making.
 
 ##  Objectives
 
--   Analyze sales trends\
--   Identify top-performing products\
--   Understand customer behavior\
+-   Analyze sales trends
+-   Identify top-performing products
+-   Understand customer behavior
 -   Generate actionable business insights
 
 ------------------------------------------------------------------------
@@ -24,18 +24,18 @@ business insights and support data-driven decision-making.
 
 ##  Key Insights
 
--   Smartphones generate the highest revenue\
--   Sales vary across months indicating seasonal trends\
--   Certain payment methods are more preferred by customers\
+-   Smartphones generate the highest revenue
+-   Sales vary across months indicating seasonal trends
+-   Certain payment methods are more preferred by customers
 -   Customer demographics influence purchasing behavior
 
 ------------------------------------------------------------------------
 
 ##  Business Recommendations
 
--   Focus marketing efforts on top-performing products\
--   Run seasonal campaigns during peak sales periods\
--   Improve user experience for popular payment methods\
+-   Focus marketing efforts on top-performing products
+-   Run seasonal campaigns during peak sales periods
+-   Improve user experience for popular payment methods
 -   Target specific customer segments for better engagement
 
 ------------------------------------------------------------------------
