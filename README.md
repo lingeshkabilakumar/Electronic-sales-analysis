@@ -8,7 +8,7 @@ business insights and support data-driven decision-making.
 ------------------------------------------------------------------------
 ## Project Highlights
 - Analyzed 20,000+ sales records  
-- Built interactive Excel dashboard  
+- Built interactive Tableau and Excel dashboard  
 - Generated actionable business insights  
 - Focused on real-world decision-making
 ------------------------------------------------------------------------
@@ -25,6 +25,7 @@ business insights and support data-driven decision-making.
 ##  Tools Used
 
 -   Excel (Data Cleaning & Dashboard Creation)
+-   Tableau (dashboard)
 
 ------------------------------------------------------------------------
 
@@ -46,10 +47,11 @@ business insights and support data-driven decision-making.
 
 ------------------------------------------------------------------------
 
-##  Dashboard
+##  Excel Dashboard
 
 <img width="903" height="700" alt="sales ana dash" src="https://github.com/user-attachments/assets/9e60e570-56dc-4761-976f-9bdc935b4339" />
 
+## Tableau Dashboard
 
 ------------------------------------------------------------------------
 
