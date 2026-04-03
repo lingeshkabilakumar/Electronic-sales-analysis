@@ -52,6 +52,7 @@ business insights and support data-driven decision-making.
 <img width="903" height="700" alt="sales ana dash" src="https://github.com/user-attachments/assets/9e60e570-56dc-4761-976f-9bdc935b4339" />
 
 ## Tableau Dashboard
+<img width="1600" height="860" alt="electronic tableu" src="https://github.com/user-attachments/assets/b17791f8-36cd-4349-ba6d-dd2fb7744db6" />
 
 ------------------------------------------------------------------------
 
