@@ -46,13 +46,13 @@ business insights and support data-driven decision-making.
 -   Target specific customer segments for better engagement
 
 ------------------------------------------------------------------------
+## Power BI Dashboard
+<img width="1600" height="860" alt="electronic tableu" src="Dashboard/electronic sales power BI.png" />
 
 ##  Excel Dashboard
 
 <img width="903" height="700" alt="sales ana dash" src="https://github.com/user-attachments/assets/9e60e570-56dc-4761-976f-9bdc935b4339" />
 
-## Power BI Dashboard
-<img width="1600" height="860" alt="electronic tableu" src="Dashboard/electronic sales power BI.png" />
 
 ------------------------------------------------------------------------
 
